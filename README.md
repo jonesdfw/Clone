@@ -1,1 +1,1 @@
-Stable Build Java_Selenium_TestNG_Maven_Framework
+Maven_Framework
